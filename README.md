@@ -1,7 +1,7 @@
 
 # Aruco Marker-Based Surgical Tool Navigation System
 
-This project simulates a surgical tool navigation system using Aruco markers and OpenCV to track a tool in real-time. The system provides augmented reality (AR) visual feedback, including distance measurements and directional arrows, to guide the tool toward a target marker. The mobile phone camera is used as the webcam via **DroidCam** for capturing the video feed.
+This project aims to develop an innovative surgical tool navigation system utilizing Aruco markers and OpenCV to enable real-time tracking of surgical instruments. By placing an Aruco marker on the tool (such as a pen) and another on a designated target surface, a webcam captures the tool's movements continuously. The system integrates augmented reality (AR) elements to provide intuitive visual feedback, such as directional arrows and distance indicators, facilitating precise navigation of the tool toward the target marker. This setup not only enhances the accuracy of surgical procedures but also offers valuable guidance to practitioners, improving overall efficiency and safety during operations.
 
 ## Table of Contents
 
